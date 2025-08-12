@@ -54,7 +54,7 @@ jobs:
         run: |
           hugo \
             --gc --minify \
-            --baseURL "https://raccoon-mh.github.io/apple-shortcuts-book/"
+            --baseURL "/"
       - name: Deploy to GitHub Pages
         run: |
           # Remove existing docs folder if it exists
