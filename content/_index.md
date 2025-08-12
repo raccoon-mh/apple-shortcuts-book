@@ -1,6 +1,5 @@
 ---
 date: '2025-08-12T02:05:12Z'
-draft: true
 title: 'Home'
 layout: hextra-home
 ---
