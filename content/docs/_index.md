@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: TEST Documentation
+title: Documnents
 ---
 
 Welcome to TESST Documentation.
